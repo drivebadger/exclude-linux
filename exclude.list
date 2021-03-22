@@ -3,6 +3,7 @@ usr/lib/firmware
 usr/lib/gcc
 usr/lib/git-core
 usr/lib/libreoffice
+usr/lib/*-linux-gnu/
 usr/share/app-install/desktop
 usr/share/app-install/icons
 usr/share/doc
