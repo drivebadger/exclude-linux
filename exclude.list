@@ -1,3 +1,4 @@
+live/*.squashfs
 lib/modules/*-generic/
 usr/lib/firmware
 usr/lib/gcc
