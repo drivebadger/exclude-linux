@@ -1,5 +1,7 @@
 live/*.squashfs
+.npm/_cacache
 lib/modules/*-generic/
+lib/node_modules/npm
 usr/lib/firmware
 usr/lib/gcc
 usr/lib/git-core
